@@ -1,2 +1,2 @@
-👋 Hi, I’m @Guigo101
-I like programming.
+- 👋 Hi, I’m @Guigo101
+- I like programming.
